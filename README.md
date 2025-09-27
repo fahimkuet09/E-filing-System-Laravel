@@ -56,7 +56,7 @@ Dynamic Service Section with customizable options.
 - Bootstrap5
 
 
-**Test Repo :**
+**Screenshots:**
 # Home Page
 <a  href="">
   <img  width="80%"  height="80%"  src="https://i.ibb.co/37JZRkC/Untitled-1.jpg"/>
