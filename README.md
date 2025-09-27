@@ -7,15 +7,15 @@ Dynamic Service Section with customizable options.
 
 # Five User Roles:
 
-👤 Normal User
+ *Normal User
 
-🏢 Head of Department (HOD)
+ *Head of Department (HOD)
 
-👨‍💼 Managing Director (MD)
+ *Managing Director (MD)
 
-🗳️ Board Member
+ *Board Member
 
-🔑 Administrator
+ *Administrator
 
 # User & Department Management
 
