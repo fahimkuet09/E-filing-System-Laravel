@@ -106,3 +106,7 @@ Dynamic Service Section with customizable options.
 <a  href="">
   <img  width="80%"  height="80%"  src="https://i.ibb.co/r4Gf5n3/note-list-filtering.png"/>
 </a>
+
+**Usage:**
+
+This system is designed for organizations that require a structured file approval process with clear accountability and streamlined workflows.
