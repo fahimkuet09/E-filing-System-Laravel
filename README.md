@@ -17,13 +17,13 @@ Five User Roles:
 
 🔑 Administrator
 
-User & Department Management
+-User & Department Management
 
 Admin can add, edit, and manage users.
 
 Admin can add, edit, and manage departments.
 
-Approval Workflow
+-Approval Workflow
 
 HOD can create new files and define approval flows.
 
@@ -33,19 +33,19 @@ Notes appear in the Inbox for review and action.
 
 Notes can be forwarded through the approval chain.
 
-Decision Making
+-Decision Making
 
 Managing Director can approve ✅, reject ❌, or forward notes.
 
 Final clearance handled by the Accounts Section.
 
-Additional Tools
+-Additional Tools
 
 Users can add queries and templates to streamline file processing.
 
 Filtering options available in Admin, HOD, and Managing Director panels.
 
-Reports for monitoring and tracking activities
+-Reports for monitoring and tracking activities
 
 ###
 # Key Technology
