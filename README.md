@@ -59,7 +59,7 @@ Dynamic Service Section with customizable options.
 **Screenshots:**
 # Home Page
 <a  href="">
-  <img  width="80%"  height="80%"  src="https://i.ibb.co/37JZRkC/Untitled-1.jpg"/>
+  <img  width="80%"  height="80%"  src="http://randox.techsstation.com/screenshots/e-filing/home.jpg"/>
 </a>
 
 # Dashboard
