@@ -64,7 +64,7 @@ Dynamic Service Section with customizable options.
 
 # Dashboard
 <a  href="">
-  <img  width="80%"  height="80%"  src="https://i.ibb.co/LtqJbTV/dashboard-panel.png"/>
+  <img  width="80%"  height="80%"  src="http://randox.techsstation.com/screenshots/e-filing/dashboard-panel.png"/>
 </a>
 
 # New User Creation
